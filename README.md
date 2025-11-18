@@ -128,8 +128,7 @@ Tabla con lista de paquetes:
 
 **Video de demostración:** [Enlace al video de la aplicación](https://)
 
-**Despliegue:** [[Enlace al sitio en Vercel o Netlify](https://)
-](https://frontendd-git-main-jess-projects-a743565c.vercel.app)
+**Despliegue:** (https://frontendd-git-main-jess-projects-a743565c.vercel.app)
 ---
 
 ## Ejecución del Proyecto
